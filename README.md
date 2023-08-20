@@ -9,14 +9,14 @@ Once inside, I discovered my passion for programming far beyond what is related 
 💛 I am a proactive, creative, optimistic, dedicated, decisive and perfectionist person.
 💛 With a wide capacity for leadership, effective communication, teamwork, organization and planning.
 
-Tech skills:
-◾ JavaScript
-◾ Node
-◾ React
+Tech skills:<br/>
+◾ JavaScript<br/>
+◾ Node<br/>
+◾ React<br/>
 ◾ Redux
 ◾ Express
-◾ Sequel
-◾ PostgreSQL
+◾ Sequelize<br/>
+◾ PostgreSQL<br/>
 
 ❕ Advanced level of English, with fluent conversational capacity.
 </p>
