@@ -1,6 +1,8 @@
 <h1 align="center">Hi < Developers /> 👋, I'm Luciana</h1>
 <h3 align="center">Im a doctor and a newly full stack web developer from Argentina</h3>
 
+<img src="![portada linkedin](https://github.com/LucianaMSanchez/LucianaMSanchez/assets/124176491/d2fc368d-8d09-4287-9455-6701f8d77d68)">
+
 <h3 align="left">Who am I?</h3>
 <p align="left">
 I'm a Radiologist, with an extensive professional and academic career in the field of medicine, multiple awards and recognitions for academic achievements, publications and scientific presentations.<br/>
