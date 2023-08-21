@@ -33,11 +33,11 @@ Tech skills:<br/>
 <p align="left">
 const me = new Person();<br/>
 const keepGrowing = (life) => {<br/>
-if(life !== enough) return true<br/>
-}; <br/>
-While( me === true) { <br/>
-setMainGoal(keepGrowing) <br/>
-};<br/>
+  if(life !== enough) return true<br/>
+  }; <br/>
+While(me) { <br/>
+  setMainGoal(keepGrowing) <br/>
+  };<br/>
 <p/>
 
 <h3 align="left">Languages and Tools:</h3><br/>
