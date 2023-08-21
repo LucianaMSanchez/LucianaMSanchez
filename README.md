@@ -38,6 +38,7 @@ if(life !== enough) return true
 While( me === true) { 
 setMainGoal(keepGrowing) 
 };
+<p/>
 
 <h3 align="left">Languages and Tools:</h3><br/>
 <div align="center"> 
