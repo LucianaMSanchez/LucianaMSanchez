@@ -29,6 +29,16 @@ Tech skills:<br/>
 📧 lulutcht@hotmail.com<br/>
 </p><br/>
 
+<h3 align="left">My function:</h3>
+<p align="left">
+const me = new Person(); 
+const keepGrowing = (life) => {
+if(life !== enough) return true
+}; 
+While( me === true) { 
+setMainGoal(keepGrowing) 
+};
+
 <h3 align="left">Languages and Tools:</h3><br/>
 <div align="center"> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
