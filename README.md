@@ -31,13 +31,13 @@ Tech skills:<br/>
 
 <h3 align="left">My function:</h3>
 <p align="left">
-const me = new Person(); 
-const keepGrowing = (life) => {
-if(life !== enough) return true
-}; 
-While( me === true) { 
-setMainGoal(keepGrowing) 
-};
+const me = new Person();<br/>
+const keepGrowing = (life) => {<br/>
+if(life !== enough) return true<br/>
+}; <br/>
+While( me === true) { <br/>
+setMainGoal(keepGrowing) <br/>
+};<br/>
 <p/>
 
 <h3 align="left">Languages and Tools:</h3><br/>
