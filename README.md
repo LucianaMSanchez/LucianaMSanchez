@@ -21,7 +21,7 @@ Tech skills:<br/>
 ❕ Advanced level of English, with fluent conversational capacity.
 </p><br/>
 <br/>
-<h3 align="left">Connect with me:</h3><br/>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luciana-sanchez-a17a75150/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
