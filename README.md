@@ -18,6 +18,17 @@ Tech skills:<br/>
 ◾ Express<br/>
 ◾ Sequelize<br/>
 ◾ PostgreSQL<br/>
+◾ NextJs<br/>
+◾ AWS<br/>
+◾ DynamoDB<br/>
+◾ Lambda<br/>
+◾ s3<br/>
+◾ Zustand<br/>
+◾ Tailwind CSS<br/>
+◾ Material Tailwind<br/>
+◾ Quill<br/>
+◾ Markdown<br/>
+◾ Filepond<br/>
 <br/>
 ❕ Advanced level of English, with fluent conversational capacity.
 </p><br/>
