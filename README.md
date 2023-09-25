@@ -70,5 +70,14 @@ While(me) { <br/>
 <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img style="margin: 10px" src="https://www.dynamodbguide.com/logos/dynamodb.svg" alt="DynamoDB" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" alt="S3" height="50" /></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://material-tailwind.com/" target="_blank"><img style="margin: 10px" src="https://www.creative-tim.com/blog/content/images/wordpress/2021/04/material-tailwind-logo-204x300.png" alt="Material Tailwind CSS" height="50" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" height="50" /></a>
 </div>
 
