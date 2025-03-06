@@ -10,26 +10,7 @@ Once inside, I discovered my passion for programming far beyond what is related 
 💛 I am a proactive, creative, optimistic, dedicated, decisive and perfectionist person.<br/>
 💛 With a wide capacity for leadership, effective communication, teamwork, organization and planning.<br/>
 <br/>
-Tech skills:<br/>
-◾ JavaScript<br/>
-◾ Node<br/>
-◾ React<br/>
-◾ Redux<br/>
-◾ Express<br/>
-◾ Sequelize<br/>
-◾ PostgreSQL<br/>
-◾ NextJs<br/>
-◾ AWS<br/>
-◾ DynamoDB<br/>
-◾ Lambda<br/>
-◾ s3<br/>
-◾ Zustand<br/>
-◾ Tailwind CSS<br/>
-◾ Material Tailwind<br/>
-◾ Quill<br/>
-◾ Markdown<br/>
-◾ Filepond<br/>
-<br/>
+
 ❕ Advanced level of English, with fluent conversational capacity.
 </p><br/>
 <br/>
